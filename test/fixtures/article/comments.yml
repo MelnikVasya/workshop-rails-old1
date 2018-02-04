@@ -1,0 +1,9 @@
+one:
+  commentor: MyString
+  body: MyText
+  article: published
+
+two:
+  commentor: MyString
+  body: MyText
+  article: two
